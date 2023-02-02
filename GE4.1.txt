@@ -1,0 +1,9 @@
+
+digital : kỉ thuật
+mainly (adv) : chủ yếu
+
+
+I'm Thi, a backend developer on API team at PNV.
+My job is to create APIs. and support fontend for a website.
+
+
